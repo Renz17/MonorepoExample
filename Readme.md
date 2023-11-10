@@ -14,6 +14,6 @@
 
 # npx turbo run lint
 
-# npx turbo run fortmast
+# npx turbo run format
 
 # to run lint in a specific repository that we have in the monorepo, we directly enter the repository and execute the respective command
